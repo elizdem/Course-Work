@@ -1,0 +1,152 @@
+[
+  {
+    "$id": "1",
+    "Id": 1,
+    "Name": "N-Shirt",
+    "Type": "Women",
+    "Article": 12345,
+    "Cost": 1000,
+    "Brand": "Bershka",
+    "Size": 44
+  },
+  {
+    "$id": "2",
+    "Id": 2,
+    "Name": "Blouse",
+    "Type": "Men",
+    "Article": 456253,
+    "Cost": 1050,
+    "Brand": "H&M",
+    "Size": 48
+  },
+  {
+    "$id": "3",
+    "Id": 3,
+    "Name": "Tight",
+    "Type": "Women",
+    "Article": 679247,
+    "Cost": 500,
+    "Brand": "Zara",
+    "Size": 50
+  },
+  {
+    "$id": "4",
+    "Id": 4,
+    "Name": "Trousers",
+    "Type": "Men",
+    "Article": 589754,
+    "Cost": 2000,
+    "Brand": "Stradivarius",
+    "Size": 46
+  },
+  {
+    "$id": "5",
+    "Id": 5,
+    "Name": "Ring",
+    "Type": "Women",
+    "Article": 5787454,
+    "Cost": 450,
+    "Brand": "Zarina",
+    "Size": 18
+  },
+  {
+    "$id": "6",
+    "Id": 1,
+    "Name": "Sweater",
+    "Type": "Women",
+    "Article": 6548975,
+    "Cost": 2500,
+    "Brand": "Your",
+    "Size": 48
+  },
+  {
+    "$id": "7",
+    "Id": 1217081638,
+    "Name": "Dots Dress",
+    "Type": "Dress",
+    "Article": 12345678,
+    "Cost": 3455,
+    "Brand": "Bershka",
+    "Size": 48
+  },
+  {
+    "$id": "8",
+    "Id": 735231959,
+    "Name": "Blouse with red button",
+    "Type": "Women",
+    "Article": 1,
+    "Cost": 4500,
+    "Brand": "Stradivarus",
+    "Size": 42
+  },
+  {
+    "$id": "9",
+    "Id": 705710824,
+    "Name": "Black Jeans",
+    "Type": "Men",
+    "Article": 2212,
+    "Cost": 3670,
+    "Brand": "Gloria Jeans",
+    "Size": 48
+  },
+  {
+    "$id": "10",
+    "Id": 310972158,
+    "Name": "Sport Leggins",
+    "Type": "Women",
+    "Article": 1234,
+    "Cost": 1700,
+    "Brand": "Nike",
+    "Size": 46
+  },
+  {
+    "$id": "11",
+    "Id": 1888342632,
+    "Name": "Yeezy Boots",
+    "Type": "United sex",
+    "Article": 22122002,
+    "Cost": 7600,
+    "Brand": "Adidas",
+    "Size": 38
+  },
+  {
+    "$id": "12",
+    "Id": 1595181035,
+    "Name": "Black Belt",
+    "Type": "United sex",
+    "Article": 2022,
+    "Cost": 2850,
+    "Brand": "Paul and Shark",
+    "Size": 1
+  },
+  {
+    "$id": "13",
+    "Id": 1903018038,
+    "Name": "Crop Top",
+    "Type": "Women",
+    "Article": 1711,
+    "Cost": 1200,
+    "Brand": "Terranova",
+    "Size": 44
+  },
+  {
+    "$id": "14",
+    "Id": 1414870877,
+    "Name": "Striped shirt",
+    "Type": "Men",
+    "Article": 34567,
+    "Cost": 2800,
+    "Brand": "Reebok",
+    "Size": 50
+  },
+  {
+    "$id": "15",
+    "Id": 1132528886,
+    "Name": "Ring with red mineral",
+    "Type": "women",
+    "Article": 2345,
+    "Cost": 950,
+    "Brand": "Svarovski",
+    "Size": 17
+  }
+]
